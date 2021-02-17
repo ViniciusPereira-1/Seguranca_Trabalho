@@ -1,4 +1,4 @@
-# Dashboard Seguranca_Trabalho
+# Dashboard de Seguranca do Trabalho - 1.1
 Dashboard em Excel exemplificando sua aplicação dentro da área de Segurança do Trabalho (dados fictícios)
 _______________________________________________________________________________________________
 ## Estruturação de nomeação:
