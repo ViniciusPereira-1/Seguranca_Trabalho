@@ -21,6 +21,7 @@ ________________________________________________________________________________
 ### 1.11 - Pequenos ajustes e bugfixes
 
 **Referentes à Dashboard**
+
 *Implementações:*
 - A seleção de filtro por Local do dano da Opção "Múltiplos" agora é indicado através de um círculo no centro da figura do corpo humano.
   - A seleção por "N/A" continua sem apresentar nenhuma informação visual na imagem.
@@ -34,6 +35,7 @@ ________________________________________________________________________________
 ### 1.1 - Funcionalidades e botões adicionais
 
   **Referentes à Dashboard**
+  
   *Implementações:*
   - O gráfico de Número de acidentes agora possui dois botões "Simplificado" e "Detalhado".
     - Os botões alternam entre mostrar as informações apenas por departamento, ou mostrá-las também divididas por turno.
