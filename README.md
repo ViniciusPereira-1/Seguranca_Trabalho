@@ -1,4 +1,4 @@
-# Dashboard de Seguranca do Trabalho - 1.1
+# Dashboard de Seguranca do Trabalho - 1.11
 Dashboard em Excel exemplificando sua aplicação dentro da área de Segurança do Trabalho (dados fictícios)
 _______________________________________________________________________________________________
 ## Estruturação de nomeação:
@@ -18,6 +18,19 @@ ________________________________________________________________________________
 *tabD_XXXX* -> Tabelas Dinâmicas.
 
 # VERSÃO ATUAL
+### 1.11 - Pequenos ajustes e bugfixes
+
+**Referentes à Dashboard**
+*Implementações:*
+- A seleção de filtro por Local do dano da Opção "Múltiplos" agora é indicado através de um círculo no centro da figura do corpo humano.
+  - A seleção por "N/A" continua sem apresentar nenhuma informação visual na imagem.
+
+**Referentes à Pasta de Trabalho**
+- Melhorias na visualização e leitura das Tabelas de Apoio.
+- Nomeação dos gráficos do corpo reajustadas.
+
+_______________________________________________________________________________________________
+### HISTÓRICO
 ### 1.1 - Funcionalidades e botões adicionais
 
   **Referentes à Dashboard**
@@ -37,8 +50,7 @@ ________________________________________________________________________________
 
   *Pendentes:*
   - Planilha de Índice;
-_______________________________________________________________________________________________
-### HISTÓRICO
+  - 
 ### 1.0 - Dashboard funcional
 
   - A Dashboard está funcional.
